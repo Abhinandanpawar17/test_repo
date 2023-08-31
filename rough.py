@@ -17,10 +17,6 @@ crawler_name = f'{data_client}_{source}_{filename}_Silver_Crawler'
 print(crawler_name)
 print(sample_tbl_name)
 
-
-
-
-
 # tbl_prefix = f'tbl_{data_client}_{source}_'
 # print(tbl_prefix)
 # print(tbl_prefix.split('#'))
